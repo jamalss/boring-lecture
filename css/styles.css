@@ -1,0 +1,19 @@
+h2.intro {
+  color: maroon;
+  line-height: 17px;
+  word-spacing: 6px;
+  letter-spacing: 7px;
+  text-decoration: overline;
+
+}
+
+p.intro {
+  color: brown;
+  letter-spacing: 6px;
+  word-spacing: 6px;
+
+}
+
+img.intro {
+  width: 50%;
+}
